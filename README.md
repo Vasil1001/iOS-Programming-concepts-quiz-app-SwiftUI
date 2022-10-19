@@ -40,13 +40,15 @@ A Programming concepts quiz app for iOS written in SwiftUI. Created as part of t
 
 <!-- app-screenshots -->
 ## App screenshots
-
 Main Page | Detail Page | Hourly Forecast Page
 :-----------------------:|:-----------------------:|:-----------------------:
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 35](https://user-images.githubusercontent.com/78150846/196710481-c5325461-4362-42f8-a3d8-d1d46176ba77.png)|![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 51](https://user-images.githubusercontent.com/78150846/196736415-6ef52c2e-cd6b-4eb2-8c9e-fb47284a8dd1.png)| ![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 17 04](https://user-images.githubusercontent.com/78150846/196736461-6d57d2f6-32c8-4466-9aa4-5bd59aca63ec.png)
 
-<!-- setup -->
+Onboarding Page
+:-----------------------:
+![Simulator Screen Recording - iPhone 13 Pro - 2022-10-19 at 20 51 10](https://user-images.githubusercontent.com/78150846/196818997-897a48a7-54a7-4976-9841-ef2a577da8b3.gif)
 
+<!-- setup -->
 ## Setup
 To run this app, you will need the following:
   - A MacOS Machine
@@ -55,9 +57,11 @@ To run this app, you will need the following:
 
 <!-- usage -->
 ## Usage
-- Type a city in the search bar and press the search button to display city temperature on main screen.
-- Afterwards, tap details page to get further details for the selected city.
-- Lastly, tap 5 day forecast page to retrieve hourly forecast for the selected city in a list.
+- Create an account / login
+- Select Swift or SwiftUI
+- Select a category then a question
+- Pick from one of the provided answers
+- View score and category progress
 
 <!-- improvement -->
 ## Improvement
