@@ -20,8 +20,6 @@ A Programming concepts quiz app for iOS written in SwiftUI. Created as part of t
     <li><a href="#general-info">General Info</a></li>
     <li><a href="#app-screenshots">App Screenshots</a></li>
     <li><a href="#setup">Setup</a></li>
-    <li><a href="#further-requirements">Further Requirements</a></li>
-    <li><a href="#project-status">Project Status</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#improvement">Room for Improvement</a></li>
      <li><a href="#project-status">Status</a></li>
@@ -40,13 +38,12 @@ A Programming concepts quiz app for iOS written in SwiftUI. Created as part of t
 
 <!-- app-screenshots -->
 ## App screenshots
-Main Page | Detail Page | Hourly Forecast Page
-:-----------------------:|:-----------------------:|:-----------------------:
-![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 35](https://user-images.githubusercontent.com/78150846/196710481-c5325461-4362-42f8-a3d8-d1d46176ba77.png)|![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 51](https://user-images.githubusercontent.com/78150846/196736415-6ef52c2e-cd6b-4eb2-8c9e-fb47284a8dd1.png)| ![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 17 04](https://user-images.githubusercontent.com/78150846/196736461-6d57d2f6-32c8-4466-9aa4-5bd59aca63ec.png)
 
-Onboarding Page
-:-----------------------:
-![Simulator Screen Recording - iPhone 13 Pro - 2022-10-19 at 20 51 10](https://user-images.githubusercontent.com/78150846/196818997-897a48a7-54a7-4976-9841-ef2a577da8b3.gif)
+Onboarding Page | Question View | Challenge view
+:-----------------------:|:-----------------------:|:-----------------------:
+![Simulator Screen Recording - iPhone 13 Pro - 2022-10-20 at 20 54 26](https://user-images.githubusercontent.com/78150846/197045129-f6d1d2e3-f881-44f6-9944-d54661840735.gif)|![Simulator Screen Recording - iPhone 13 Pro - 2022-10-20 at 21 03 39](https://user-images.githubusercontent.com/78150846/197046954-ef592679-ddf2-47c9-87c9-92c46aef6b5a.gif)|![Simulator Screen Recording - iPhone 13 Pro - 2022-10-20 at 21 04 16](https://user-images.githubusercontent.com/78150846/197046964-f2ec9179-acd3-41fd-90f7-6a67efa710d4.gif)
+
+
 
 <!-- setup -->
 ## Setup
