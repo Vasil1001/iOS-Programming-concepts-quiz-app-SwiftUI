@@ -1,5 +1,6 @@
 # iOS-Programming-concepts-quiz-app-SwiftUI <a name="readme-top"></a> 
-A Programming concepts quiz app for iOS written in SwiftUI. Created as part of the Final Year Project module at University of Westminster.
+
+A Programming concepts quiz app for iOS written in SwiftUI. This app was built as part of the Final Year Project module at Westminster University, and constitutes the practical part of my extensive research into the use of technology in classrooms to practice, learn and review material in form of tests or quizes.
 
 [![Swift][Swift.com]][Swift-url] [![Xcode][Xcode.com]][Xcode-url] 
 
